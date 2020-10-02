@@ -6,7 +6,7 @@ The `addinslist` package solves that problem in two ways:
 
 - This package provides a continuously updated list of RStudio addins that you can browse through ([below](#addinslist-table)).
 
-- After installing this package (`install.packages('addinslist')`), your RStudio will get populated with a new addin called "Browse RStudio addins". This addin allows you to interactively browse through the list of addins, see which ones you already have installed, and let you install/uninstall the corresponding package of each addin. The following image shows how to access this "addin of addins" in RStudio.
+- After installing this package (`remotes::install_github("jimbrig/addinslist")`), your RStudio will get populated with a new addin called "Browse RStudio addins". This addin allows you to interactively browse through the list of addins, see which ones you already have installed, and let you install/uninstall the corresponding package of each addin. The following image shows how to access this "addin of addins" in RStudio.
 
 ![Addins menu](https://raw.githubusercontent.com/daattali/addinslist/master/inst/media/addins-menu.png)
 
