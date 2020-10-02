@@ -1,6 +1,6 @@
 # Discover and install useful RStudio addins
 
-[RStudio addins](https://rstudio.github.io/rstudioaddins/) were released in early 2016 to provide anyone with the ability to add "extensions" to RStudio. This feature has quickly become popular, but discoverability was a problem: **there's just no easy way to know what addins exist.**
+[RStudio addins](https://rstudio.github.io/rstudioaddins/) were initially released by RStudio in early 2016 to provide anyone with the ability to add "extensions" to RStudio. This feature has quickly become popular, but discoverability was a problem: **there's just no easy way to know what addins exist.**
 
 The `addinslist` package solves that problem in two ways:
 
