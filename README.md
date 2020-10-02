@@ -1,12 +1,5 @@
 # Discover and install useful RStudio addins
 
-[![Build
-Status](https://travis-ci.org/daattali/addinslist.svg?branch=master)](https://travis-ci.org/daattali/addinslist)
-[![CRAN
-version](http://www.r-pkg.org/badges/version/addinslist)](https://cran.r-project.org/package=addinslist)
-
-> *Copyright 2016 [Dean Attali](http://deanattali.com). Licensed under the MIT license.*
-
 [RStudio addins](https://rstudio.github.io/rstudioaddins/) were released in early 2016 to provide anyone with the ability to add "extensions" to RStudio. This feature has quickly become popular, but discoverability was a problem: **there's just no easy way to know what addins exist.**
 
 The `addinslist` package solves that problem in two ways:
@@ -18,8 +11,6 @@ The `addinslist` package solves that problem in two ways:
 ![Addins menu](https://raw.githubusercontent.com/daattali/addinslist/master/inst/media/addins-menu.png)
 
 <h2 id="addinslist-table">List of addins</h2>
-
-If you made a useful RStudio addin, feel free to make a pull request [on GitHub](https://github.com/daattali/addinslist#readme) to add it to the list. 
 
 | Name | Date Added | Description | Package | On CRAN? | Author | More links | Notes | 
 |------|------|------|------|------|------|------|------|
