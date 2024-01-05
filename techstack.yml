@@ -1,7 +1,8 @@
 repo_name: jimbrig/addinslist
 report_id: 969f4a9c16037ac304c17dd2faf96669
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-07T20:28:47+00:00'
+timestamp: '2024-01-05T08:27:58+00:00'
 requested_by: web-flow
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jimbrig/addinslist
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jimbrig/addinslist
   detection_source: Repo Metadata
 - name: Markdown
   description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Jimmy Briggs
   last_updated_on: 2020-08-20 19:45:42.000000000 Z
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/jimbrig/addinslist
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -54,6 +59,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jimbrig/addinslist
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -64,6 +70,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Jimmy Briggs
   last_updated_on: 2020-08-20 19:45:42.000000000 Z
@@ -76,7 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
-  detection_source_url: github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Jimmy Briggs
   last_updated_on: 2020-08-20 19:45:42.000000000 Z
@@ -88,6 +95,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Jimmy Briggs
   last_updated_on: 2020-08-20 19:45:42.000000000 Z
@@ -100,7 +108,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
-  detection_source_url: github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Jimmy Briggs
   last_updated_on: 2020-08-20 19:45:42.000000000 Z
@@ -113,7 +121,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
-  detection_source_url: github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Jimmy Briggs
   last_updated_on: 2020-08-20 19:45:42.000000000 Z
@@ -125,6 +133,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Jimmy Briggs
   last_updated_on: 2020-08-20 19:45:42.000000000 Z
@@ -136,6 +145,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Jimmy Briggs
   last_updated_on: 2020-08-20 19:45:42.000000000 Z
@@ -148,7 +158,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
-  detection_source_url: github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Jimmy Briggs
   last_updated_on: 2020-08-20 19:45:42.000000000 Z
@@ -161,7 +171,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
-  detection_source_url: github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Jimmy Briggs
   last_updated_on: 2020-08-20 19:45:42.000000000 Z
@@ -174,7 +184,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
-  detection_source_url: github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Jimmy Briggs
   last_updated_on: 2020-08-20 19:45:42.000000000 Z
@@ -187,7 +197,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/cran/image.png
-  detection_source_url: github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
   detection_source: DESCRIPTION
   last_updated_by: Jimmy Briggs
   last_updated_on: 2020-08-20 19:45:42.000000000 Z
