@@ -1,0 +1,203 @@
+repo_name: jimbrig/addinslist
+report_id: 969f4a9c16037ac304c17dd2faf96669
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:58:38+00:00'
+requested_by: web-flow
+provider: github
+branch: master
+detected_tools_count: 16
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jimbrig/addinslist
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jimbrig/addinslist
+  detection_source: Repo Metadata
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2020-08-20 19:45:42.000000000 Z
+- name: R Language
+  description: A language and environment for statistical computing and graphics
+  website_url: http://www.r-project.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/jimbrig/addinslist
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jimbrig/addinslist
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2020-08-20 19:45:42.000000000 Z
+- name: DT
+  description: A Wrapper of the JavaScript Library 'DataTables'
+  package_url: https://cran.r-project.org/DT
+  version: '0.1'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2020-08-20 19:45:42.000000000 Z
+- name: curl
+  description: A Modern and Flexible Web Client for R
+  package_url: https://cran.r-project.org/curl
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2020-08-20 19:45:42.000000000 Z
+- name: miniUI
+  description: Shiny UI Widgets for Small Screens
+  package_url: https://cran.r-project.org/miniUI
+  version: '0.1'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2020-08-20 19:45:42.000000000 Z
+- name: rappdirs
+  description: 'Application Directories: Determine Where to Save Data'
+  package_url: https://cran.r-project.org/rappdirs
+  version: 0.3.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2020-08-20 19:45:42.000000000 Z
+- name: remotes
+  description: R Package Installation from Remote Repositories
+  package_url: https://cran.r-project.org/remotes
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2020-08-20 19:45:42.000000000 Z
+- name: rmarkdown
+  description: Dynamic Documents for R
+  package_url: https://cran.r-project.org/rmarkdown
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2020-08-20 19:45:42.000000000 Z
+- name: rvest
+  description: Easily Harvest
+  package_url: https://cran.r-project.org/rvest
+  version: 0.3.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2020-08-20 19:45:42.000000000 Z
+- name: shiny
+  description: Web Application Framework for R
+  package_url: https://cran.r-project.org/shiny
+  version: 0.13.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2020-08-20 19:45:42.000000000 Z
+- name: shinyjs
+  description: Easily Improve the User Experience of Your Shiny Apps in Seconds
+  package_url: https://cran.r-project.org/shinyjs
+  version: '0.6'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2020-08-20 19:45:42.000000000 Z
+- name: xml2
+  description: Parse XML
+  package_url: https://cran.r-project.org/xml2
+  version: 0.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/jimbrig/addinslist/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2020-08-20 19:45:42.000000000 Z
